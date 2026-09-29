@@ -1,2 +1,3 @@
 # first-demo
-my first repository
+my first repository.
+author-shivani
